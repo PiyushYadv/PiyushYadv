@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building engaging web applications with modern UI/UX design principles.<br>👯 I’m looking to collaborate on creative design-driven projects, open-source tools, or apps that focus on user-friendly interfaces and seamless experiences.<br>🤝 I’m looking for help with improving SEO strategies, mastering advanced C++/DSA patterns, and refining scalable database designs.<br>🌱 I’m currently learning NextJS, ML, and advanced problem-solving techniques for competitive programming.<br>💬 Ask me about UI/UX design, front-end development, SQL/DBMS, and practical approaches to coding problems in C++.<br>⚡ Fun fact I started my journey as an engineer but fell in love with design and coding—now I blend both to create user-friendly digital experiences.
+🔭 I’m currently working on building engaging web applications with modern UI/UX design principles.<br>👯 I’m looking to collaborate on creative design-driven projects, open-source tools, or apps that focus on user-friendly interfaces and seamless experiences.<br>🌱 I’m currently learning NextJS, ML, and advanced problem-solving techniques for competitive programming.<br>💬 Ask me about UI/UX design, full-stack development, SQL/DBMS, and practical approaches to coding problems in C++.
 
 
 ## 🌐 Socials:
@@ -76,9 +76,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=PiyushYadv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PiyushYadv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushYadv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PiyushYadv&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=PiyushYadv&icon=0&color=0)](https://visitcount.itsvg.in)
