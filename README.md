@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on building engaging web applications with modern UI/UX design principles.<br>I’m looking to collaborate on creative design-driven projects, open-source tools, or apps that focus on user-friendly interfaces and seamless experiences.<br>I’m currently learning NextJS, ML, and advanced problem-solving techniques for competitive programming.<br>Ask me about UI/UX design, full-stack development, SQL/DBMS, and practical approaches to coding problems in C++.
+I’m currently working on building engaging web applications with modern UI/UX design principles.<br>I’m looking to collaborate on creative design-driven projects, open-source tools, or apps that focus on user-friendly interfaces and seamless experiences.<br>I’m currently learning NextJS, Deep Learning, and advanced problem-solving techniques for competitive programming.<br>Ask me about UI/UX design, Full Stack development, SQL/DBMS, and practical approaches to coding problems.
 
 
 ## Socials:
