@@ -73,6 +73,5 @@ I’m currently working on building engaging web applications with modern UI/UX 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PiyushYadv?theme=dark&font=PT%20Mono&ext=heatmap)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PiyushYadv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PiyushYadv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushYadv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
