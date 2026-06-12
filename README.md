@@ -1,5 +1,7 @@
 # About Me:
-Building engaging web applications with modern UI/UX principles.
+4th Year B.Tech CSE Student at DTU
+
+Passionate about building engaging web applications with modern UI/UX principles.
 
 Open to collaborating on design-driven projects, open-source tools, and user-focused applications.
 
