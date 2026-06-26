@@ -8,6 +8,7 @@ Open to collaborating on design-driven projects, open-source tools, and user-foc
 Currently learning:
 - Spring Boot & Apache Kafka
 - Graph Neural Networks
+- Go
 - Advanced DSA & Competitive Programming
 
 Ask me about:
